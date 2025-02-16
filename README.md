@@ -20,7 +20,16 @@ This Bash script fetches and logs details about AWS resources, including **S3 Bu
    ```bash
    git clone https://github.com/Sujalpatel701/aws_usage.git
    cd aws_usage
-2. ./aws_usage.sh
-3. ls aws_usage_*.log
+   ```
+
+2.Run the script
+```bash
+./aws_usage.sh
+```
+3.Check the generated log file in the script directory
+```bash
+ls aws_usage_*.log
+
+```
 
 ![Screenshot from 2025-02-16 12-45-58](https://github.com/user-attachments/assets/bdd8fc74-311b-4d36-b717-0323ed31d396)
